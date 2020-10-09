@@ -1,0 +1,30 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "hw-13 burger application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miadehaan/burger.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mysql",
+    "MVC"
+  ],
+  "author": "Mia de Haan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miadehaan/burger/issues"
+  },
+  "homepage": "https://github.com/miadehaan/burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "mysql": "^2.18.1"
+  }
+}

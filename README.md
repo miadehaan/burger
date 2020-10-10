@@ -6,6 +6,10 @@
 ## Description 
 This application...
 
+Deployed Application: https://dry-harbor-95879.herokuapp.com/
+
+Github Repository: https://github.com/miadehaan/burger
+
 ## Table of Contents
 - [Description](#Description)
 - [Installation](#Installation)

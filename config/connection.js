@@ -14,8 +14,8 @@ else {
         user: 'root',
         password: 'Webdev_2020!!',
         database: 'burgers_db'
-    })
-}
+    });
+};
 
 connection.connect();
 module.exports = connection;

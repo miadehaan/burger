@@ -10,6 +10,8 @@ body {
 
 h1 {
     text-align: center;
+    padding-top: 50px;
+    text-decoration: underline;
 }
 
 h2 {
@@ -17,9 +19,25 @@ h2 {
 }
 
 #burgerIcon {
-    margin: 10px auto 10px auto;
+    margin: 50px auto 50px auto;
     height: 300px;
     width: auto;
+}
+
+.btn-group {
+    margin-left: 30px;
+}
+
+.remainingBurgers {
+    padding-left: 5px;
+}
+
+.devouredBurgers {
+    padding-left: 15px;
+}
+
+#addBurger{
+    margin-top: 70px;;
 }
 
 

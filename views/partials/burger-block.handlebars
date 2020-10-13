@@ -1,9 +1,11 @@
 <li>
 	{{burger_name}}
 
-	<button class="change-devour" data-id="{{id}}" data-newdevour="{{devoured}}">
-		{{#if devoured}}SAVE FOR LATER!{{else}}EAT IT!{{/if}}
-	</button>
-
-	<button class="delete-burger" data-id="{{this.id}}">DELETE!</button>
+	<div class="btn-group" role="group" aria-label="Basic example">
+		<button type="button" class="change-devour btn btn-outline-dark" data-id="{{id}}" data-newdevour="{{devoured}}">
+			{{#if devoured}}Eat it!{{else}}Save it for later!{{/if}}
+		</button>
+	
+		<button class="delete-burger btn btn-outline-dark" data-id="{{this.id}}">Delete</button>
+	</div>
 </li>

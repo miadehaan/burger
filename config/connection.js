@@ -2,8 +2,8 @@
 Setup the code to connect Node to MySQL.
 Export the connection.
 */
-const mysql = require("mysql");
-const connection;
+var mysql = require("mysql");
+var connection;
 
 if (process.env.JAWSDB_URL) {
     connection = mysql.createConnection(process.env.JAWSDB_URL); 

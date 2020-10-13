@@ -1,13 +1,25 @@
 *{
-    background-color: rgb(250, 189, 99);
+    margin: 0;
+    padding: 0;
+    font-family: 'Playfair Display', serif;
+}
+
+body {
+    background-color: rgb(198, 248, 255);
 }
 
 h1 {
     text-align: center;
 }
 
+h2 {
+    text-align: left;
+}
+
 #burgerIcon {
-    text-align: center;
+    margin: 10px auto 10px auto;
+    height: 300px;
+    width: auto;
 }
 
 

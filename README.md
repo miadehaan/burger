@@ -37,7 +37,7 @@ This project will be used for people who want to sort out the burgers they've ea
 
 ## Example
 
-![Webpage](public\assets\images\appExample.PNG)
+![Webpage](public/assets/images/appExample.PNG)
 
     
 ## License

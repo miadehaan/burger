@@ -4,7 +4,7 @@
 
 
 ## Description 
-This application...
+This application utilizes Node, MySQL, & handlebarrs templates to create a burger app. The user is able to add new burgers and sort them by if they have been eaten or not. They can then change the status of the burgers listed, or even delete them if desired. This application is deployed using Heroku.
 
 Deployed Application: https://dry-harbor-95879.herokuapp.com/
 
@@ -22,10 +22,12 @@ Github Repository: https://github.com/miadehaan/burger
 
 
 ## Installation
-To install this application...
+To install this application, run:
+
+`npm install` 
     
 ## Usage
-This project will be used for...
+This project will be used for people who want to sort out the burgers they've eaten!
 
 ## Technologies
 - Node.js
@@ -35,9 +37,8 @@ This project will be used for...
 
 ## Example
 
-![gif](./Assets/    .gif)
+![Webpage](.\public\assets\images\appExample.PNG)
 
-[View Full Video Example Here]( )
     
 ## License
 This application is covered under MIT.
